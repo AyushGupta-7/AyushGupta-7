@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Ayush Gupta 👋</h1>
 
 <p align="center">
-  Computer Science Engineering Undergraduate | Full-Stack & Backend Developer
+  Software Engineering-Focused Professional | Full-Stack & Backend Developer
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ### 🚀 About Me
 
-- 🎓 Computer Science Engineering undergraduate with strong programming fundamentals
+- 🎯 Software engineering-focused professional with strong programming fundamentals
 - 💻 Hands-on experience building **backend** and **full-stack** applications
 - 🧠 Solid understanding of algorithms, logical problem-solving, REST APIs, and databases (relational & NoSQL)
 - 🌱 Self-driven learner — I enjoy debugging, adapting, and picking up new technologies quickly
