@@ -1,14 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=170&text=Ayush%20Gupta&fontSize=56&fontColor=ffffff&fontAlignY=42&desc=Full-Stack%20%26%20Backend%20Developer&descSize=20&descAlignY=66" alt="Ayush Gupta" />
+<h1>Ayush Gupta</h1>
 
 **Software Engineering-Focused Professional** · MERN Stack · REST APIs · Real-time Apps
 
 <br/>
 
-<a href="mailto:ayush.gupta.en@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/ayush-gupta-845b132b3/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/AyushGupta-7"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+📧 [ayush.gupta.en@gmail.com](mailto:ayush.gupta.en@gmail.com) &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/ayush-gupta-845b132b3/) &nbsp;|&nbsp; 🐙 [GitHub](https://github.com/AyushGupta-7)
 
 <br/><br/>
 
@@ -68,6 +66,8 @@ const ayush = {
 
 A full-stack MERN platform where students and freshers can network, find jobs, and chat in real time.
 
+🔗 **Live:** [nexora-beta-rouge.vercel.app](https://nexora-beta-rouge.vercel.app/) &nbsp;|&nbsp; 💻 [Source](https://github.com/AyushGupta-7/Nexora)
+
 - 📰 Social feed with text/image posts, likes, comments & replies
 - 🤝 Connection requests: send, accept, reject, disconnect
 - 💼 Job discovery & application tracking (Applied, Withdrawn, Selected, Rejected)
@@ -87,6 +87,8 @@ A full-stack MERN platform where students and freshers can network, find jobs, a
 ![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square) ![Period](https://img.shields.io/badge/Feb%202026%20--%20May%202026-blue?style=flat-square)
 
 A full-stack app for managing health records and booking doctor appointments.
+
+🔗 **Live:** [health-mate-tawny.vercel.app](https://health-mate-tawny.vercel.app/) &nbsp;|&nbsp; 💻 [Source](https://github.com/AyushGupta-7/HealthMate)
 
 - ⚛️ Responsive React UI with reusable, modular components
 - 🔌 RESTful APIs (Node.js & Express) for auth, appointments & data
@@ -141,8 +143,7 @@ A real-time app that converts sign language gestures into text using computer vi
 
 I'm open to opportunities, collaborations, and good conversations about code.
 
-<a href="mailto:ayush.gupta.en@gmail.com"><img src="https://img.shields.io/badge/Say%20Hello-ayush.gupta.en%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/ayush-gupta-845b132b3/"><img src="https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+📧 [ayush.gupta.en@gmail.com](mailto:ayush.gupta.en@gmail.com) &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/ayush-gupta-845b132b3/) &nbsp;|&nbsp; 🐙 [GitHub](https://github.com/AyushGupta-7)
 
 <br/><br/>
 
